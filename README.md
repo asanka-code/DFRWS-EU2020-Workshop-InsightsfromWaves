@@ -6,7 +6,7 @@ This repository contains the materials that will be used at the **Insights from 
 
 0. You need a host computer where you can dedicate at least 4GB of RAM and 20GB of disk space for a virtual machine.
 
-1. Install **Oracle VirtualBox** and **VirtualBox Extension Pack** on your host computer. We've tested on VirtualBox version 5.2. Link: https://www.virtualbox.org/wiki/Downloads
+1. Install **Oracle VirtualBox** and **VirtualBox Extension Pack** on your host computer. The version of the virtual box and extension pack has to match. Use the latest version to be sure that everything works perfectly. Link: https://www.virtualbox.org/wiki/Downloads
 
 2. Download the **EMvidenceVM.ova** file from the following link and import it on VirtualBox. The downloadable file is about 3.7GB large. When importered into VirtualBox, it will take upto a maximum of 20GB disk space. Most probably, it will be less than that.
 Link: https://drive.google.com/drive/folders/154vCmQ9EeXErynA40HhBsHqGtXVEMWP7?usp=sharing
@@ -18,3 +18,6 @@ Link: https://drive.google.com/drive/folders/154vCmQ9EeXErynA40HhBsHqGtXVEMWP7?u
      ```./update-workshop-materials.sh```
 
 Now you are good to go! If you have any queries about the above steps, please feel free to contact me through the following email address: asanka[dot]sayakkara[at]ucdconnect[dot]ie.
+
+## Trouble Shooting:
+- If you are on a Mac and has an issue with the resolution of the VM, goto the VM settings and set the Graphics Controller to "VMSVGA".
