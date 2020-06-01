@@ -6,7 +6,7 @@ This repository contains the materials that will be used at the **Insights from 
 
 0. You need a host computer where you can dedicate at least 4GB of RAM and 20GB of disk space for a virtual machine.
 
-1. Install **Oracle VirtualBox** and **VirtualBox Extension Pack** on your host computer. The version of the virtual box and extension pack has to match. Use the latest version to be sure that everything works perfectly. Link: https://www.virtualbox.org/wiki/Downloads
+1. Install **Oracle VirtualBox** and **VirtualBox Extension Pack** on your host computer. The version of the virtual box and extension pack has to match. Use the latest version to be sure that everything works perfectly. We've tested on version 6.1.8. Link: https://www.virtualbox.org/wiki/Downloads
 
 2. Download the **EMvidenceVM.ova** file from the following link and import it on VirtualBox. The downloadable file is about 3.7GB large. When importered into VirtualBox, it will take upto a maximum of 20GB disk space. Most probably, it will be less than that.
 Link: https://drive.google.com/drive/folders/154vCmQ9EeXErynA40HhBsHqGtXVEMWP7?usp=sharing
